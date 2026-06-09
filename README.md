@@ -4,7 +4,7 @@ An official entry for **The GitHub Octocat Drawing Contest**. This project puts 
 
 ## 🎨 Submission Details
 
-- **Project Link:** [Paste your repository or portfolio URL here]
+- **Project Link:** (https://fnz78.github.io/f1_racer_octocat/)
 - **Mascot Name:** F1-Octocat
 - **Challenge Entry Category:** Original Theme Variant
 
